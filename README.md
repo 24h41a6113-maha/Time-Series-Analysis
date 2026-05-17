@@ -419,7 +419,7 @@ Correct Direction Predictions = 0/5
 
 ---
 
-# 📊 Dashboard & Visualizations
+## 📊 Dashboard & Visualizations
 
 The project generated:
 
@@ -433,7 +433,7 @@ The project generated:
 
 ---
 
-# 📄 PDF Report Generation
+## 📄 PDF Report Generation
 
 All generated charts and dashboards were exported into:
 
@@ -443,7 +443,7 @@ capstone_charts.pdf
 
 ---
 
-# 📦 Libraries Used
+## 📦 Libraries Used
 
 ```python
 pandas
@@ -459,7 +459,6 @@ jupyter
 
 ---
 
-# 🛠 Installation & Setup
 
 ## Clone Repository
 
@@ -485,7 +484,7 @@ jupyter notebook
 
 ---
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 - 🔥 LSTM & Deep Learning Forecasting
 - 📰 Financial News Sentiment Analysis
@@ -497,7 +496,7 @@ jupyter notebook
 
 ---
 
-# 📚 Key Learnings
+## 📚 Key Learnings
 
 - Financial data is highly non-stationary
 - ARIMA performs well on stable trends
@@ -507,11 +506,11 @@ jupyter notebook
 
 ---
 
-# Author
+## Author
 
-## CH.K.D.M.Lakshmi
+### CH.K.D.M.Lakshmi
 Data Science • Machine Learning • Financial Analytics
 
 ---
 
-# ⭐ If you found this project useful, consider giving it a star!
+### ⭐ If you found this project useful, consider giving it a star!
