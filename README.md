@@ -507,9 +507,9 @@ jupyter notebook
 
 ---
 
-# CH.K.D.M.Lakshmi
+# Author
 
-## Your Name
+## CH.K.D.M.Lakshmi
 Data Science • Machine Learning • Financial Analytics
 
 ---
